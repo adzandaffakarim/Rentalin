@@ -19,7 +19,7 @@ function Home() {
           <div className="gear-card audio-card"><span>🎙️</span><small>AUDIO</small><strong>02</strong></div>
           <div className="gear-card projector-card"><span>📽️</span><small>DISPLAY</small><strong>03</strong></div>
           <div className="art-stamp">USE<br/>WHAT<br/>YOU NEED.</div>
-          <div className="art-label label-bottom">RENTALKAN / EST. 2026</div>
+          <div className="art-label label-bottom">RENTALIN / EST. 2026</div>
         </div>
       </section>
 

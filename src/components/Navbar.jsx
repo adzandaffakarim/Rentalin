@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="navbar-container">
-        <Link to="/" className="brand"><span className="brand-mark">rk.</span><span>rentalk<span className="brand-light">an</span></span></Link>
+        <Link to="/" className="brand"><span className="brand-mark">rl.</span><span>rental<span className="brand-light">in</span></span></Link>
         <nav className="nav-menu">
           <NavLink to="/" end>Beranda</NavLink>
           <NavLink to="/product">Katalog</NavLink>
